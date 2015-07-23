@@ -1,0 +1,11 @@
+{
+  "name": "sparky",
+  "version": "0.0.1",
+  "description": "Small feature-less WebSocket library with event based PubSub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cecil Worsley <cecilworsley4@gmail.com>",
+  "license": "ISC"
+}
