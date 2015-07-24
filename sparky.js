@@ -68,6 +68,7 @@ Socket.prototype.emit = function (event, data) {
   var payload = {
     event: event,
     scope: 'roommates',
+    role: this.role,
     data: data
   };
   
