@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Cecil Worsley <cecilworsley4@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "duo": "^0.14.1"
+  }
 }
